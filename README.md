@@ -1,1 +1,1 @@
-`use of Git/Github from terminals `
+`use of Git/Github from terminals by ALX School`
